@@ -15,11 +15,11 @@ which it is possible to book an appointment using a Smartphone, web browser with
 4. Data present in other fields like Allergy (Wikipedia), Medicine Names (Pharmac.govt.nz), Department (Medicalcouncil.ie), 
 5. Doctor Qualification (Medicalcouncil.ie) and Medical Council Number (Medicalcouncil.ie) was searched over the internet and real 
    values were inserted in this system. Fields for which Real like values were inserted in tables are as follows:
-
-   **Allergens** – List of common allergens are picked up from Wikipedia and then inserted in this field which is present in ‘Patient’ table.
-   **Medicine Name** – Different commonly used medicines are taken from pharmac.govt.nz and are used in ‘Medicine’ table under medicine name field.
-   **Doctor Qualification** – Few values are taken from medicalcouncil.ie which are used in field qualification in table ‘Doctor’
-   **Medical Council Number** – Medical council number is also taken from the same web site form where doctor qualification is taken. Here, we noticed that for every doctor (if you search doctor by any forename) the medical council number was of six digits. We have built our data for this field accordingly.
+**Allergens** – List of common allergens are picked up from Wikipedia and then inserted in this field which is present in ‘Patient’   
+                   table.
+**Medicine Name** – Different commonly used medicines are taken from pharmac.govt.nz and are used in ‘Medicine’ table under medicine                    name field.
+**Doctor Qualification** – Few values are taken from medicalcouncil.ie which are used in field qualification in table ‘Doctor’
+**Medical Council Number** – Medical council number is also taken from the same web site form where doctor qualification is taken. Here, we noticed that for every doctor (if you search doctor by any forename) the medical council number was of six digits. We have built our data for this field accordingly.
 
 ## Steps Taken to Build System
 
