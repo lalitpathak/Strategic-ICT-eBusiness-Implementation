@@ -1,0 +1,80 @@
+Patient_ID,Blood_Group,Allergies
+SP-0043,A+,Egg
+SP-0044,A-,Egg
+SP-0045,A+,Penicillin
+SP-0046,AB+,Egg
+SP-0047,AB-,Tetracycline
+SP-0048,O+,Egg
+SP-0049,AB+,Pollen
+SP-0050,B+,Peanut
+SP-0051,B-,Peanut
+SP-0052,AB-,Local anesthetics
+SP-0053,A+,Rice
+SP-0065,B+,Tetracycline
+SP-0066,A-,Tetracycline
+SP-0067,A-,Egg
+SP-0068,AB-,Tetracycline
+SP-0069,A+,Local anesthetics
+SP-0070,O+,Tetracycline
+SP-0071,B-,Tetracycline
+SP-0072,B+,Local anesthetics
+SP-0073,O+,Tetracycline
+SP-0074,AB-,Pollen
+SP-0075,A+,Tetracycline
+SP-0076,O-,Tetracycline
+SP-0077,A-,Peanut
+SP-0078,A+,Local anesthetics
+SP-0079,A-,Peanut
+SP-0080,B+,Penicillin
+SP-0081,B+,Pollen
+SP-0082,O+,Local anesthetics
+SP-0083,B-,Penicillin
+SP-0084,A+,Pollen
+SP-0085,AB-,Egg
+SP-0086,AB+,Egg
+SP-0087,B+,Tetracycline
+SP-0088,O+,Local anesthetics
+SP-0089,AB-,Egg
+SP-0090,O-,Penicillin
+SP-0091,B-,Peanut
+SP-0092,AB+,Penicillin
+SP-0093,AB+,Pollen
+SP-0094,B+,Rice
+SP-0095,B-,Rice
+SP-0096,A+,Rice
+SP-0097,AB+,Egg
+SP-0098,O-,Local anesthetics
+SP-0099,B-,Pollen
+SP-0100,AB-,Egg
+SP-0101,B+,Pollen
+SP-0102,O-,Tetracycline
+SP-0103,A+,Penicillin
+SP-0104,B-,Rice
+SP-0105,O-,Local anesthetics
+SP-0106,O-,Pollen
+SP-0107,AB-,Peanut
+SP-0108,O+,Penicillin
+SP-0109,B-,Rice
+SP-0110,A-,Local anesthetics
+SP-0111,A+,Rice
+SP-0112,A-,Peanut
+SP-0113,AB-,Egg
+SP-0114,O+,Local anesthetics
+SP-0115,O+,Rice
+SP-0116,O-,Tetracycline
+SP-0117,O+,Local anesthetics
+SP-0118,B+,Egg
+SP-0119,B+,Local anesthetics
+SP-0120,B-,Peanut
+SP-0121,O+,Local anesthetics
+SP-0122,A+,Rice
+SP-0123,A-,Peanut
+SP-0124,A-,Local anesthetics
+SP-0125,O-,Egg
+SP-0126,A-,Penicillin
+SP-0127,AB+,Tetracycline
+SP-0128,O-,Penicillin
+SP-0129,O-,Local anesthetics
+SP-0130,A-,Local anesthetics
+SP-0131,AB-,Pollen
+SP-0132,B-,Penicillin
